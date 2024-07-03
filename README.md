@@ -24,13 +24,3 @@ The recommendation system is built using the TMDB (The Movie Database) datasets,
 - **NumPy:** For numerical computations.
 - **Scikit-learn:** For machine learning algorithms and vectorization.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/content-recommendation-system.git
-2. Navigate to the project directory
-   '''bash
-   cd content-recommendation-system
-3. Install the required packages
-
