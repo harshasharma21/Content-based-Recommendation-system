@@ -8,9 +8,9 @@ The recommendation system is built using the TMDB (The Movie Database) datasets,
 
 ## Features
 
-- **Collaborative Filtering:** Utilizes user viewing history to recommend movies that similar users have enjoyed.
+- **Collaborative Filtering:** Utilizes user input to recommend movies that similar users have given.
 - **Natural Language Processing (NLP):** Uses TF-IDF vectorization to analyze movie descriptions and other textual data.
-- **Matrix Factorization:** Applies techniques such as Singular Value Decomposition (SVD) to improve recommendation accuracy.
+- **Matrix Factorization:** Applies techniques such as Singular Value Decomposition (SVD) and cosine similarity to improve recommendation accuracy.
 
 ## Datasets
 
